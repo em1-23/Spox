@@ -1,18 +1,17 @@
-🎵 Spox — Music Web Application
+<h1 align="center"> 🎵 Spox — Music Web Application </h1>
 
 Spox is a feature-rich, web-based music streaming client inspired by modern audio platforms. Built using React.js and LocalStorage, it provides a smooth music browsing and listening experience with lightweight client-side data persistence.
 
-🚀 Features
+<h2 align="center"> 🚀 Features </h2>
 
 🎨 Modern UI: Clean, modern, and fully responsive layout inspired by top music apps.
 
 🎧 Interactive Audio Player: Play, pause, skip tracks, adjust volume, and control playback seamlessly.
 
 💾 LocalStorage Persistence:
-
-Save and manage your favorite tracks in Liked Songs.
-
-Create, edit, and organize custom user Playlists.
+├─ Save and manage your favorite tracks in Liked Songs.
+|
+├─ Create, edit, and organize custom user Playlists.
 
 Persist player settings and user preferences across browser sessions.
 
@@ -29,34 +28,9 @@ Styling: CSS3 / Tailwind CSS
 Icons: Lucide React / React Icons
 
 Data Persistence: Web LocalStorage API
+<h1 align="center"> 🤖 Clone </h1>
 
-💻 Getting Started
-
-Follow these steps to run Spox locally on your machine:
-
-1. Clone the repository
-
-git clone [https://github.com/your-username/spox-music.git](https://github.com/your-username/spox-music.git)
-
-
-2. Navigate to the project directory
-
-cd spox-music
-
-
-3. Install dependencies
-
-npm install
-
-
-4. Start the development server
-
-npm start
-
-
-Open http://localhost:3000 in your web browser to start using Spox.
-
-📁 Project Structure
+<h2 align="center"> 📁 Project Structure </h2>
 
 src/
  ├── assets/         # Audio files, icons, and cover artwork
