@@ -53,13 +53,13 @@ Note: Make sure you have Node.js installed on your machine.
 ```bash
 plain
  src/
- ├── assets/           # Audio files, icons, and cover artwork
- ├── components/       # UI elements (Player, Sidebar, Header, SongCard, PlaylistModal)
- ├── context/          # React Context API for player state & LocalStorage logic
- ├── data/             # Mock track lists and metadata
- ├── pages/            # Main views (Home, Search, Library, PlaylistView)
- ├── App.js            # Core layout & application routing logic
- └── index.js          # React DOM entry point
+ ├── Photos/           # Audio files, icons, and cover artwork
+ ├── Fonts/            # React Context API for player state & LocalStorage logic
+ ├── Data/             # Mock track lists and metadata
+ ├── Pages/            # Main views (Home, Search, Library, PlaylistView)
+ ├── App.jsx           # Core layout & application routing logic
+ ├── index.css         # Design And Styles
+ └── main.jsx          # React DOM entry point
 ```
 
 📄 License & Disclaimer
